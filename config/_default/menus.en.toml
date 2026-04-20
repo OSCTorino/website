@@ -1,0 +1,38 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Join Us"
+pre = "star"
+pageRef = "pages/join_us"
+identifier = "Oux6KC42kf"
+weight = 9_999
+
+[[main]]
+name = "News"
+pre = "fire"
+pageRef = "news"
+identifier = "j4KkWsVtcj"
+weight = 9_999
+
+[[main]]
+name = "Members"
+pre = "heart"
+pageRef = "pages/members"
+identifier = "97OmlmaE8P"
+weight = 9_999
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "WhatsApp"
+url = "https://chat.whatsapp.com/CEJ98FzjFm5AmT7lEb1i1B"
+identifier = "TPk1zWVnGu"
+weight = 2
+
+[[footer]]
+name = "Email Us"
+url = "mailto:osct@unito.it"
+identifier = "K9FEoh4Igs"
+weight = 1

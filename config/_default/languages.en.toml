@@ -1,0 +1,14 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "The Open Science Community Torino"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "Thumbnail_OSC_Torino.png"
+copyright = "© OSC Torino - CC-BY 4.0"
+description = "The official website of the Open Science Community in Torino, Italy"

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: AtkinsonHyperlegibleNext;
+    src: url('/fonts/AtkinsonHyperlegibleNext.ttf')
+}
+
+html {
+    font-family: AtkinsonHyperlegibleNext;
+}
