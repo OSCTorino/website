@@ -12,12 +12,14 @@
     }
 </style>
 
-# Welcome to the Open Science Community Torino
+# Welcome!
 
 The Open Science Community Torino is a grassroots organization made up of researchers, technicians, data stewards and citizens that teaches, fosters and promotes Open Science practices in academia and beyond. We sport members from all four of the largest research performing organisations in and around Torino: the University of Turin, the Politecnico di Torino, the Istituto Italiano di Ricerca Metrologica and the Università del Piemonte Orientale, but also unaffiliated citizens and people working in private companies. We’re not officially sponsored by any institution.
 
 We are interested in the implementation of Open Sciences in all contexts and forms: from reproducible research to FAIR Data Stewardship, from ethical and transparent research to citizen science, from Open Access to the reform of scholarly communication and evaluation.
 If you live or work in and around Turin and want to connect with fellow researchers in or outside your institution or company to discuss Open Science and its implementation, the Open Science Community is the place to be!
+
+This homepage is in English to improve accessibility, but all of our content is mostly written or presented in **Italian**.
 
 ## Who is the OSCT for?
 
@@ -32,10 +34,11 @@ The Open Science Community Torino aims to foster the adoption of Open, Reproduci
 If you find any collegues already part of the OSCT, send them an email to say hi and begin a discussion! If you don’t (and even if you do!), join our shared spaces to talk about Open Science, how to solve its problems and how best to put it in action.
 
 You can read more about these ideas in the OSCT [Mission Statement](pages/mission).
+If you're interested on how the OSCT works, check out the Handbook at [handbook.osc.to](https://handbook.osc.to/) to learn more!
 
 ## Join the Open Science Community Torino
 
-If you have questions or concerns, feel free to email osct@unito.it to get in touch. If you are interested to join as a member of the Open Science Community Torino, check out the "Join US" page on the top-right menu bar.
+If you have questions or concerns, feel free to email osct@unito.it to get in touch. If you are interested to join as a member of the Open Science Community Torino, check out the ["Join US" page](pages/join_us).
 
 ## Meet the Community Coordinators
 
@@ -44,7 +47,7 @@ If you have questions or concerns, feel free to email osct@unito.it to get in to
   <img src="luca.png" alt="Luca" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
   <div>
     <h3>Luca Visentin</h3>
-    <p>Hello, I’m Luca! I’m a PhD Candidate at the University of Torino. I’m deeply interested in Open Science and the ways in which we can do science better. My main focus is Data Stewardship and how research groups can manage their data openly and efficiently. My daily work involves bioinformatics data analysis, so I specialize in areas such as computational reproducibility, data preservation, experimental design, sharing of results and everything data-centered.</p>
+    <p>Hello, I’m Luca! I’m deeply interested in Open Science and the ways in which we can do science better. My main focus is Data Stewardship and how research groups can manage their data openly and efficiently. I'm also interested in the phylosophy of Open Science and of data. I work at the Politecnico di Milano as a Data Steward, although I live in Turin.</p>
   </div>
 </div>
 

@@ -27,12 +27,28 @@ none = "none"
 
 [[footer]]
 name = "WhatsApp"
+pre = "whatsapp"
 url = "https://chat.whatsapp.com/CEJ98FzjFm5AmT7lEb1i1B"
 identifier = "TPk1zWVnGu"
 weight = 2
 
 [[footer]]
 name = "Email Us"
+pre = "email"
 url = "mailto:osct@unito.it"
 identifier = "K9FEoh4Igs"
 weight = 1
+
+[[footer]]
+name = "Instagram"
+pre = "instagram"
+url = "https://www.instagram.com/osctorino/"
+identifier = "0Gr5BdORyo"
+weight = 9_999
+
+[[footer]]
+name = "BlueSky"
+pre = "bluesky"
+url = "https://bsky.app/profile/osctorino.bsky.social"
+identifier = "b3rby7chqk"
+weight = 9_999
