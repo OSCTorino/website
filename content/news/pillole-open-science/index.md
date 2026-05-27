@@ -57,9 +57,14 @@ Gli eventi si tengono, a seconda del calendario, nel secondo o terzo mercoledì 
 
 - **MAGGIO – Mercoledì 13 – Open Science nei progetti di Ricerca: il caso delle humanities**
   - Cosa vuol dire parlare di dati della ricerca nelle humanities? Cosa si intende per "dato"? I DMP nei progetti di digitalizzazione del patrimonio culturale. Il Piano Nazionale di Digitalizzazione. Cenni su DMP in progetti europei.
+  - **Relatrici**: Anna Maria Marras e Cristina Stalteri
+  - Evento concluso. Le [slide sono qui](https://doi.org/10.5281/zenodo.20272245)
 
 - **GIUGNO – Mercoledì 17 – Tool e Workflow per il research data management**
   - GitHub, Electronic Lab Notebook, OSF… Tutti gli strumenti nella nostra cassetta degli attrezzi per rendere la nostra ricerca più funzionale, efficace e soprattutto Open.
+  - **Coordinate**: Ore 15:00 - 16:30. Completamente online. Il link per connettersi sara' inviato a tutti gli iscritti il giorno prima dell'evento.
+  - **Relatore**: Luca Visentin, Ph.D., Politecnico di Milano
+  - Link per iscriversi: https://forms.gle/pUyrA5aYoUZckXmm8
 
 **Nota**: Gli argomenti degli incontri possono subire leggere variazioni. Un invito specifico sarà inviato attraverso i nostri canali nel periodo prima dell'evento vero e proprio con informazioni aggiuntive quali orario, location e speaker(s). Questa pagina sarà periodicamente aggiornata di conseguenza.
 
