@@ -60,9 +60,10 @@ Gli eventi si tengono, a seconda del calendario, nel secondo o terzo mercoledì 
   - **Relatrici**: Anna Maria Marras e Cristina Stalteri
   - Evento concluso. Le [slide sono qui](https://doi.org/10.5281/zenodo.20272245)
 
-- **GIUGNO – Mercoledì 17 – Tool e Workflow per il research data management**
+- **GIUGNO – Martedì 16 – Tool e Workflow per il research data management**
+  - !! DATA ANTICIPATA !!
   - GitHub, Electronic Lab Notebook, OSF… Tutti gli strumenti nella nostra cassetta degli attrezzi per rendere la nostra ricerca più funzionale, efficace e soprattutto Open.
-  - **Coordinate**: Ore 15:00 - 16:30. Completamente online. Il link per connettersi sara' inviato a tutti gli iscritti il giorno prima dell'evento.
+  - **Coordinate**: **MARTEDI' 16** Ore 15:00 - 16:30. Completamente online. Il link per connettersi sara' inviato a tutti gli iscritti il giorno prima dell'evento.
   - **Relatore**: Luca Visentin, Ph.D., Politecnico di Milano
   - Link per iscriversi: https://forms.gle/pUyrA5aYoUZckXmm8
 
