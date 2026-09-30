@@ -58,6 +58,7 @@ jobs:
         working-directory: .
         run: |
           hugo build \
+            -F \
             --gc --minify \
             --buildDrafts \
             --baseURL "https://osc.to/"

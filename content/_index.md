@@ -38,15 +38,6 @@ Se hai domande o dubbi, scrivi a osct@unito.it per metterti in contatto con noi.
 
 ## Incontra i Coordinatori della Community
 
-
-<div style="display: flex; align-items: flex-start; gap: 1rem; margin-bottom: 1rem;">
-  <img src="luca.png" alt="Luca" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
-  <div>
-    <h3>Luca Visentin</h3>
-    <p>Ciao, sono Luca! Sono molto interessato alla Scienza Aperta e ai modi in cui possiamo fare ricerca in modo migliore. Mi occupo principalmente di Data Stewardship e di come i gruppi di ricerca possono gestire i propri dati in modo aperto ed efficiente. Mi interessa anche la filosofia della Scienza Aperta e dei dati. Lavoro al Politecnico di Milano come Data Steward, anche se vivo a Torino.</p>
-  </div>
-</div>
-
 <div style="display: flex; align-items: flex-start; gap: 1rem; margin-bottom: 1rem; flex-direction: row-reverse;">
   <img src="Ilaria.png" alt="Ilaria" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
   <div>
@@ -89,3 +80,10 @@ Se hai domande o dubbi, scrivi a osct@unito.it per metterti in contatto con noi.
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; gap: 1rem; margin-bottom: 1rem;">
+  <img src="luca.png" alt="Luca" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
+  <div>
+    <h3>Luca Visentin</h3>
+    <p>Ciao, sono Luca! Sono molto interessato alla Scienza Aperta e ai modi in cui possiamo fare ricerca in modo migliore. Mi occupo principalmente di Data Stewardship e di come i gruppi di ricerca possono gestire i propri dati in modo aperto ed efficiente. Mi interessa anche la filosofia della Scienza Aperta e dei dati. Lavoro al Politecnico di Milano come Data Steward, anche se vivo a Torino.</p>
+  </div>
+</div>
